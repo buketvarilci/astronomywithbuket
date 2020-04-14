@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome!!
 
-You can use the [editor on GitHub](https://github.com/buketvarilci/astronomywithbuket/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+First of all, I want to introduce myself. I am Buket Varilci, currently junior in Turkish High School. I created a website about astronomy because I know that so many people in Turkey what to learn astronomy but it seems diffucult to understand. I been in these places so I wanted to help people. I also did translate some of the word; to make people understand. I believe this website can help people to learn new English words also my main point to teach astronomy in basic level. 
+--If you want to learn more about me you can click top of the page "who am I" -- 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
